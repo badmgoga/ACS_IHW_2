@@ -1,0 +1,2 @@
+C:\Users\gogae\source\repos\IHW_2\x64\Debug\IHW_2.exe
+C:\Users\gogae\OneDrive\Рабочий стол\IHW_2\Решение\IHW_2_C++\x64\Debug\IHW_2.exe
